@@ -1,2 +1,0 @@
-# ReactQuotesApp
-Created with CodeSandbox
